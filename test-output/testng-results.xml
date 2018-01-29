@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[goa panaji]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="63" started-at="2018-01-23T12:24:42Z" finished-at="2018-01-23T12:24:42Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="63" started-at="2018-01-23T12:24:42Z" finished-at="2018-01-23T12:24:42Z">
+      <class name="testng.Parameter11">
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:testng.Parameter11@396a51ab]" name="test1" duration-ms="16" started-at="2018-01-23T17:54:42Z" finished-at="2018-01-23T17:54:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[goa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[panaji]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[goa panaji]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- testng.Parameter11 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
